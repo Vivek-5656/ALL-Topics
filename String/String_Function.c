@@ -1,0 +1,7 @@
+// स्ट्रिंग की लंबाई: strlen()
+// कॉपी: strcpy(), strncpy()
+// जोड़ना: strcat(), strncat()
+// तुलना: strcmp(), strncmp()
+// कैरेक्टर ढूँढना: strchr(), strrchr()
+// सबस्ट्रिंग ढूँढना: strstr()
+// स्ट्रिंग को टोकन में तोड़ना: strtok()
